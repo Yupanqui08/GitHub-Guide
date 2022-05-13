@@ -1,6 +1,6 @@
 # Intro Tutorial
 
-TERMS
+## TERMS
 https://training.github.com/downloads/github-git-cheat-sheet.pdf
 
 - Commit: A change to a file/set of files. For example, you can make a branch, make changes, commit the change, then propse the change be added to the 
@@ -13,7 +13,7 @@ The branch can then be deleted.
 - Pull Request: A place to compare and discuss the differences introduced on a branch with reviews, comments, integrated tests, and more. 
 
 
-CREATING A PERSONAL ACCESS TOKEN
+## CREATING A PERSONAL ACCESS TOKEN
 https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 Make sure you have verified you email address. 
 1. Click on your profile photo
@@ -33,7 +33,7 @@ Username: [your username]
 Password: [your token]
 
 
-CREATE A NEW DIRECTORY AND TURN IT INTO A GIT REPOSITORY
+## CREATE A NEW DIRECTORY AND TURN IT INTO A GIT REPOSITORY
 https://training.github.com/downloads/github-git-cheat-sheet.pdf
 1. Create a new folder with the following command (skip this step if you are using an existing folder):
 $ mkdir NewDirName
@@ -41,7 +41,7 @@ $ mkdir NewDirName
 $ git init
 
 
-ADD A FILE TO YOUR REPOSITORY THROUGH THE COMMAND LINE
+## ADD A FILE TO YOUR REPOSITORY THROUGH THE COMMAND LINE
 https://training.github.com/downloads/github-git-cheat-sheet.pdf
 1. cd into your git repository folder
 2. Clone your repository to get a copy on your local computer. 
